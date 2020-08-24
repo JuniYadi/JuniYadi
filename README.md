@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Juni's github stats](hhttps://github-readme-stats.vercel.app/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniyadi)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniyadi)
 
 <!--
 **JuniYadi/JuniYadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
