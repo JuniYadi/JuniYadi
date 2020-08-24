@@ -2,8 +2,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true)
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniyadi)
 
 <!--
