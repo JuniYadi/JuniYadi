@@ -2,10 +2,9 @@
 
 Welcome to my github page, Enjoy..!!
 
-
-![](https://github-readme-stats.juniyadi.vercel.app/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true)
-![](https://github-readme-stats.juniyadi.vercel.app/api/top-langs/?username=juniyadi)
-![](https://github-readme-stats.juniyadi.vercel.app/api/wakatime?username=JuniYadi)
+<img align="center" src="https://github-readme-stats.juniyadi.vercel.app/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true" />
+<img align="center" src="https://github-readme-stats.juniyadi.vercel.app/api/top-langs/?username=juniyadi" />
+<img align="center" src="https://github-readme-stats.juniyadi.vercel.app/api/wakatime?username=JuniYadi" />
 
 <!--
 **JuniYadi/JuniYadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
