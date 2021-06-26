@@ -8,7 +8,9 @@ Welcome to my github page, Enjoy..!!
 
 ## Favorite Repo
 
+<a href="https://github.com/JuniYadi/backup-db-rclone">
 <img align="center" src="https://github-readme-stats.juniyadi.vercel.app/api/pin/?username=JuniYadi&repo=backup-db-rclone" />
+</a>
 
 
 <!--
