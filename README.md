@@ -16,6 +16,7 @@ Welcome to my github page, Enjoy..!!
 ## WakaTime Stats
 
 ![](https://github-readme-stats.juniyadi.vercel.app/api/wakatime?username=JuniYadi&layout=compact)
+![](https://wakatime.com/share/@JuniYadi/7ec6a006-9bd6-465c-8004-2fd07ef439cc.svg)
 
 
 <!--
