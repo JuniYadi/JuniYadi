@@ -5,8 +5,8 @@ Welcome to my github page, Enjoy..!!
 
 ## Github Stats
 
-![](https://github-readme-stats.juniyadi.vercel.app/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true)
-![](https://github-readme-stats.juniyadi.vercel.app/api/top-langs/?username=juniyadi&layout=compact)
+![](https://github-readme-stats-juniyadi.vercel.app/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true)
+![](https://github-readme-stats-juniyadi.vercel.app/api/top-langs/?username=juniyadi&layout=compact)
 
 <!-- ## Favorite Repo
 
@@ -15,7 +15,7 @@ Welcome to my github page, Enjoy..!!
 
 ## WakaTime Stats
 
-![](https://github-readme-stats.juniyadi.vercel.app/api/wakatime?username=JuniYadi&layout=compact)
+![](https://github-readme-stats-juniyadi.vercel.app/api/wakatime?username=JuniYadi&layout=compact)
 <!-- ![](https://wakatime.com/share/@JuniYadi/7ec6a006-9bd6-465c-8004-2fd07ef439cc.svg) -->
 
 
