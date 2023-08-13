@@ -22,7 +22,7 @@ Welcome to my github page, Enjoy..!!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PINTAR
+- 🔭 I’m currently working on [PINTAR](https://pintar.co)
 - 🌱 I’m currently learning Kubernetes and Typescript
 - 👯 I’m looking to collaborate on Devops or Backend Serverless
 - 💬 Ask me about anything about programming
