@@ -3,16 +3,6 @@
 Welcome to my github page, Enjoy..!!
 
 
-## Github Stats
-
-![](https://github-readme.juniyadi.id/api?username=juniyadi&count_private=true&show_icons=true&show_owner=true)
-![](https://github-readme.juniyadi.id/api/top-langs/?username=juniyadi&layout=compact)
-
-<!-- ## Favorite Repo
-
-![https://github.com/JuniYadi/backup-db-rclone](https://github-readme-stats.juniyadi.vercel.app/api/pin/?username=JuniYadi&repo=backup-db-rclone) -->
-
-
 ## WakaTime Stats
 
 ![](https://github-readme.juniyadi.id/api/wakatime?username=JuniYadi&layout=compact)
